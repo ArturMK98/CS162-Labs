@@ -45,7 +45,7 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [Password](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/Password.java): A Java program that checks the strength of a user inputted password by giving it a score between 0 - 10 and rating it as weak, fair, good or strong.
 
 # Lab 4
-- [MathsFunction](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/MathsFunction.java): A Java program that uses recursion calculates a(n) for any positive value of n for a [math function](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/Function.JPG).
+- [MathsFunction](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/MathsFunction.java): A Java program that uses recursion to calculate a(n) for any positive value of n for a [math function](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/Function.JPG).
 
 - [MinValue](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/MinValue.java): A Java program that has two methods which return the minimum value in an array of integers, one uses recursion and the other is an iterative method.
 
