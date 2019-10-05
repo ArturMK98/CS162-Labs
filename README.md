@@ -53,8 +53,11 @@ Below is a list of all the labs and exercises in this repository along with a sh
 
 - [SumDigits](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/SumDigits.java): A Java program that prompts a user to enter a non-negative integer and prints out the sum of all digits in the number using recursion.
 
-- [TimesTen](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/TimesTen.java): A Java program that checks if an array contains somewhere a value followed in the array by that value multiplied by 10 (eg, [0,2,20] => true).
+- [TimesTen](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/TimesTen.java): A Java program that checks if an array contains somewhere a value followed in the array by that value multiplied by 10 (eg, [0,2,20] = true).
 
+- [StringClean](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/StringClean.java): A Java program that cleans up a String using recursion. A "cleaned" String is one where only adjacent chars that are the same have been reduced to a single char. So "yyzzza" yields "yza".
+
+- [CountDigits](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/CountDigits.java): A Java program that  the number of occurrences of 8 as a digit, except that an 8 with another 8 immediately to its left counts double, so 8818 yields 4.
 
 
 
