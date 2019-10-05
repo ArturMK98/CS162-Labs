@@ -28,7 +28,24 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [SearchArray](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%202/SearchArray.java): A Java program that searches for the amount of times an inputted string is contained within a 2D array and prints out the answer.
 
 # Lab 3
-- 
+- [StringAcc](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/StringAcc.java): A Java program that checks if a String only contains 0s and 1s.
+
+- [WhichExp](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/WhichExp.java): A Java program that checks if a program only contains the letters a and b.
+
+- [ValidAge](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/ValidAge.java): A Java program that requests a user to input their age and verifies that the value the user enters is considered valid, lying in the range between 0 and 150.
+
+- [ValidName](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/ValidName.java): a Java program that requests a user to input their first name. The program should verify that the user enters a reasonable first name. A name that begins with a capital letter, is between 2 and 25 characters in length and doesn't contain any special characters.
+
+- [FlightCode](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/FlightCode.java): A Java program that requests a user to enter a flight code. The program verifies that the user entered a valid flight code. A valid flight code begins with 2 or 3 capital letters and is followed by 3 or 4 digits.
+
+- [Genomes](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/Genomes.java): A Java program that checks if a String entered by the user contains genome characters (c, g, a, t)
+
+- [Alarm](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/Alarm.java): A Java program that prompts the user to enter a password to deactivate an alarm. If the String taken as a parameter contains the sequence "1234" anywhere in the input; thus "1234" is the password. Program reject any other sequence and any sequence greater than 10 characters. Failure to enter the correct password results in printing "Alarm Activated" to the screen.
+
+- [Password](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%203/Password.java): A Java program that checks the strength of a user inputted password by giving it a score between 0 - 10 and rating it as weak, fair, good or strong.
+
+# Lab 4
+
 
 
 
