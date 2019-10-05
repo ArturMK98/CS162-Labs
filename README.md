@@ -57,7 +57,10 @@ Below is a list of all the labs and exercises in this repository along with a sh
 
 - [StringClean](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/StringClean.java): A Java program that cleans up a String using recursion. A "cleaned" String is one where only adjacent chars that are the same have been reduced to a single char. So "yyzzza" yields "yza".
 
-- [CountDigits](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/CountDigits.java): A Java program that  the number of occurrences of 8 as a digit, except that an 8 with another 8 immediately to its left counts double, so 8818 yields 4.
+- [CountDigits](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/CountDigits.java): A Java program that counts the number of occurrences of 8 as a digit using recursion, except that an 8 with another 8 immediately to its left counts double, so 8818 yields 4.
+
+# Lab 5
+
 
 
 
