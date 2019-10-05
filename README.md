@@ -28,7 +28,7 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [SearchArray](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%202/SearchArray.java): A Java program that searches for the amount of times an inputted string is contained within a 2D array and prints out the answer.
 
 # Lab 3
-
+- 
 
 
 
