@@ -94,7 +94,9 @@ that takes an integer array and an integer as parameters and returns a boolean. 
 
 - [Question2](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%208/Question2): A Java program that uses two .java files to create Student objects which contain a student's name, course and student ID. The information is then printed out to the screen.
 
-- [Question3](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%208/Question3): 
+- [Question3](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%208/Question3): A Java program that uses four .java files which contain vehicle attributes, car attributes, SUV attributes and a tester class which tests the functionality of the program. The program stores information about each car entered by the user.
+
+- [Question4](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%208/Question4): A Java program that uses two .java files, one containing a class to represent a bank account with name, balance and account ID attributes. The other class tests  the functionality of different methods in the BankAccount class.
 
 
 
