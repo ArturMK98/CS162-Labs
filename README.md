@@ -60,9 +60,16 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [CountDigits](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%204/CountDigits.java): A Java program that counts the number of occurrences of 8 as a digit using recursion, except that an 8 with another 8 immediately to its left counts double, so 8818 yields 4.
 
 # Lab 5
+- [FindSubString](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%205/FindSubString.java): A Java program that checks if at least n copies of substring m appear in the string x.
 
+- [Exponent](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%205/Exponent.java): A Java program that accepts two integer inputs representing a base and a power and returns the base raised to that power.
 
+- [MethodOverload](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%205/MethodOverload.java): A Java program that contains 5 static methods called area(). Each of these methods calculates the area of a user inputted shape; they take in different parameters, all return a double and calculate the area of the corresponding shape.
 
+- [Reciprocals](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%205/Reciprocals.java): A Java program that accepts an integer as input and returns the sum of the first n reciprocals as a double.
 
+- [RemoveOdds](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%205/RemoveOdds.java): A Java program that that accepts an integer as input and returns the integer that is formed by taking out the odd digits. If there are only odd digits in the input number the program prints 0.
+
+# Lab 6
 
 
