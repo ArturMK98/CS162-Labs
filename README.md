@@ -71,5 +71,18 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [RemoveOdds](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%205/RemoveOdds.java): A Java program that that accepts an integer as input and returns the integer that is formed by taking out the odd digits. If there are only odd digits in the input number the program prints 0.
 
 # Lab 6
+- [Question1](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%206/Question1.java): A Java program that uses a recursive method to multiply two positive integers a and b together and return an integer.
+
+- [Question2](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%206/Question2.java): A Java program that uses a recursive method to count the number of lowercase 'x' and returns the result as an integer.
+
+- [Question3](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%206/Question3.java): A Java program that uses a recursive method 
+that takes an integer array and an integer as parameters and returns a boolean. It returns true if the number 2 was found in the array and false if it was not.
+
+- [bubbleSortStrings](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%206/bubbleSortStrings.java): A Java program that prints the contents of an array of Strings, bubble sorts the array of Strings in a decending order and prints out the sorted array.
+
+- [binarySearchGame](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%206/binarySearchGame.java):  A random number n in the range x,y will be chosen. The computer must then find the number. At the end of the game, the number is revealed along with the number of tries it took the computer to get the correct number. The computer uses the binary search algorithm to solve this question
+
+# Lab 7
+
 
 
