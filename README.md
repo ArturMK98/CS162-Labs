@@ -19,6 +19,17 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [Prime](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%201/Prime.java): A Java program that prompts the user to enter two integers and prints out all prime numbers between the two integers inputted by the user.
 
 # Lab 2
+- [Factorial](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%202/Factorial.java): A Java program that prompts the user to enter two integers, n & m, and prints out the factorial of all numbers from n up to m.
+
+- [MethodArrays](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%202/MethodsArrays.java): A Java program that prompts the user to enter the size of an array and all of its elements. The program then prints to the screen the sum of all the elements in the array, and the average of all the elements in the array followed by the array elements printed to the screen separated by a space.
+
+- [LinearSearch](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%202/LinearSearch.java): A Java program that checks for the occurance of a double entered by the user in an array and prints out a message if that lets the user know if the element was found or not.
+
+- [SearchArray](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%202/SearchArray.java): A Java program that searches for the amount of times an inputted string is contained within a 2D array and prints out the answer.
+
+# Lab 3
+
+
 
 
 
