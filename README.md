@@ -83,6 +83,19 @@ that takes an integer array and an integer as parameters and returns a boolean. 
 - [binarySearchGame](https://github.com/ArturMK98/CS162-Labs/blob/master/Lab%206/binarySearchGame.java):  A random number n in the range x,y will be chosen. The computer must then find the number. At the end of the game, the number is revealed along with the number of tries it took the computer to get the correct number. The computer uses the binary search algorithm to solve this question
 
 # Lab 7
+- [Question1](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%207/Question1): A Java program that uses two .java files to create Circle objects and determines the circumference and area of the circle given it's radius by the user.
+
+- [Question2](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%207/Question2): A Java program that uses two .java files to create Employee objects and store their job title and salary.
+
+- [Question3](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%207/Question3): A Java program that uses two .java files to create Square objects and prints out their length and area.
+
+# Lab 8
+- [Question1](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%208/Question1): A Java program that uses two .java files to create Person objects which contain a person's name, address and PPS number. The information is then printed out to the screen.
+
+- [Question2](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%208/Question2): A Java program that uses two .java files to create Student objects which contain a student's name, course and student ID. The information is then printed out to the screen.
+
+- [Question3](https://github.com/ArturMK98/CS162-Labs/tree/master/Lab%208/Question3): 
+
 
 
 
