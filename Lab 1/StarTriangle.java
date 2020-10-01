@@ -1,7 +1,7 @@
 import java.util.*;
 public class StarTriangle {
     
-    public static void main(String args[] {
+    public static void main(String args[]) {
         
         Scanner scan = new Scanner(System.in);
         int rows = scan.nextInt();
